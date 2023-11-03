@@ -18,6 +18,10 @@ Additionally, we harnessed calculated columns and **measures**, employing **DAX 
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/59b1613f-1d75-4f6d-a617-d52a17ed11b9)
 
+There are a total of **90** employees working in seven departments, each led by one of **six** managers. **Phillip** manages both the **Accounts** and **Marketing** departments. Employees are divided into three categories: **Trainees**, accounting for **13.33%**, with **12** employees; **Contractual** employees, representing **14.44%**, with **13** employees; and **Staff** members, making up **72.22%**, with 65 employees, for the period from **2011** to **2019**.
+
+When we look at department-wise distribution, **54.44%** of employees work in the **Sales** department (49 employees), 18.89% in Marketing (17 employees), 10% in IT (9 employees), 8.89% in **HR** (8 employees), **6.67%** in **Accounts** (6 employees), and **1.11%** in **Legal** (1 employee).
+
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/8958e15c-2bbc-4492-a14a-908e7ec75dbe)
 
@@ -31,7 +35,38 @@ We created a column chart to analyze the number of employees as per age group, b
 
 We created a pie chart to show the wholesome percentage department-wise distribution of employees, with **sales** having the largest share of **54.44%**, followed by marketing with **18.89%**, **IT** with **10**%, **HR** with **8.89%**, and **accounts** with **6.67%**.
 
-We created a line area chart to analyze employee experience levels, ranging from fresher to 10 years. The chart shows that the highest number of employees have 7 years of experience (14 employees), followed by 5 years (13 employees) and 8 years (10 employees). The lowest number of employees have 10 years of experience (2 employees), followed by 9 years (6 employees) and 3 years (3 employees). Additionally, 6 employees have 1 year of experience, 4 have 2 years, and 8 have no prior experience.
+If we differentiate employees by gender, we can see that male employees dominate **female** employees. Specifically, **62.22%** of employees are **male**, while female employees make up **37.78%.**
+
+Now, let's break down the number of employees based on their years of experience:
+
+14 employees have 7 years of experience.
+
+
+13 employees have 5 years of experience.
+
+
+13 employees have 4 years of experience.
+
+
+7 employees have 6 years of experience.
+
+
+3 employees have 3 years of experience.
+
+
+2 employees have 10 years of experience.
+
+
+2 employees have 11 years of experience.
+
+
+2 employees have 12 years of experience.
+
+
+8 employees have less than 1 year of experience.
+
+
+This provides a clearer picture of the distribution of employees based on their experience levels.
 
  
 We created a pie chart to show the gender-wise distribution of employees, with **male** having largest share **62.22%**,**Female** have **37.78%**
@@ -95,6 +130,23 @@ When comparing the terminated employees, promoted employees, and the total numbe
 When examining the gender-wise comparison, it's clear that **16** male employees were terminated, while **10** female employees were terminated. The total number of promoted male employees was **2**, but for females, it was **3**. So, in terms of promotions, **female** employees **outnumbered** males, while in the case of terminations, more **male** employees were **affected** compared to female employees.
 
 Out of the **26** terminated employees within the years between **2011** to **2019**, **11** employees resigned **voluntarily**, categorized as voluntary termination. The remaining **15** people were terminated due to company policies, categorized as **non-voluntary** termination. In the **sales** department, there were **6** cases of voluntary termination and **6** cases of non-voluntary termination. The second-highest in voluntary termination was the **IT** department with **3** cases, while in the case of non-voluntary termination, the **marketing** department had the highest number at **4**.
+
+
+In terms of employee engagement, out of the total of **90** employees:
+
+**36** employees are engaged in billable roles.
+
+
+**26** employees are engaged in billable roles but have resigned.
+
+
+**13** employees are engaged in bench service.
+
+
+**9** employees are engaged in billable roles.
+
+
+**6** employees are engaged in non-billable services.
 
 
 
