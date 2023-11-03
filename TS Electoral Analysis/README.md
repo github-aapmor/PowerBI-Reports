@@ -51,6 +51,8 @@ The color gradient represents the vote share among all 10 districts based on the
 
 •	If we consider the constituency type or category to segregate candidate participation, we can clearly see that out of the total number of candidates, which is **1664**, **1447** participated under the **General** Category, accounting for **79.46%**. There were **234** candidates who participated under the **SC** category, representing **12.85%**, and **140** candidates participated under the **ST** category, with a percentage of **7.69%**.
 
+•	In the accounting of constituency-wise total number of votes, **Malkajgiri** is the top leader with **8,798,958** votes and falls under **Medchal-Malkajgiri** District. **Lal Bahadur Nagar** is the second most leading constituency with **8,551,445** votes and is located in **Rangareddy** District, while **SerelingamPally** is the third top leading constituency with **8,114,345** votes under the **Rangareddy** district. This vote share comparison is visualized by constituency with column Chart.
+
 
 ## Point Of Analysis:
 
@@ -64,6 +66,9 @@ The color gradient represents the vote share among all 10 districts based on the
 
 
 If we compare the **sex ratio** participation between **2014** and **2018**, we can observe an increase in candidate participation from **2014** to **2018**. In addition to **male** and **female** candidates, candidates from the **'Other Gender'** category also participated in **2018**. Looking at the numbers, we see that the percentage of male candidates increased from **92.01%** to **90.2%**, while the percentage of female candidates decreased from  **7.99%**  to **7.69%**. The 'Other Gender' category increased to 0.11%.
+
+
+In **2014**, **68** parties participated, and in **2018**, **92** parties participated. If we consider these parties together, we can observe that the top **5** parties are **TRS**, **INC**, **TDP**, **BJP**, and **IND**. **TRS** is the top party with the highest number of elector supporters in both **2014** and **2018**. In **2014**, it had **6.6** million supporters, and in **2018**, it had **9.7** million
 
 
 
