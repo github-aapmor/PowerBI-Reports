@@ -10,4 +10,7 @@ I have obtained this electoral data from the **Open City Urban Data Portal** for
 ## Analysis Process:
 After importing the dataset with the help of Power Query, I performed data **cleansing**, data **wrangling**, data **modification**, data **transformation**, data **manipulation**, and data modeling as per the requirements to draw appropriate conclusions. I achieved this by using calculated **measures**, calculated columns, and **DAX (Data Analysis Expressions)**. Additionally, I **created relationships** between tables by utilizing primary keys and foreign keys. For visualization, I used various charts and value cards for **KPI presentation(Key Performance Indicator).**
 
-![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/c202b80d-9e1a-4bb0-a7db-8a29625c980e)
+![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/c202b80d-9e1a-4bb0-a7db-8a29625c980e) 
+
+
+
