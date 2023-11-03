@@ -10,6 +10,23 @@ After importing the dataset with the help of Power Query, We performed data clea
 
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/f6650895-8dbc-42f7-99a1-1e4d3a4c5a0a)
+
+
+We created a column chart to analyze the number of employees as per age group, based on the dashboard that shows the data of **90** employees from **7** departments and **3** employee categories.
+
+
+We created a pie chart to show the wholesome percentage department-wise distribution of employees, with **sales** having the largest share of **54.44%**, followed by marketing with **18.89%**, **IT** with **10**%, **HR** with **8.89%**, and **accounts** with **6.67%**.
+
+We created a line area chart to analyze the number of employees working according to their experience level, ranging from fresher to 10 years. The chart shows that the highest number of employees have 7 years of experience (14), followed by 5 years (13) and 8 years (10). The lowest number of employees have 10 years of experience (2), followed by 9 years (6) and 3 years (3). The rest of the employees have 1 year (6), 2 years (4), or no experience (8).
+
+ 
+We created a pie chart to show the gender-wise distribution of employees, with **male** having largest share **62.22%**,**Female** have **37.78%**
+
+
+## Promoted Employee Dashboard:
+
+
+
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/cd5bbe30-d23a-4913-b627-9e9a553222fe)
 
 
