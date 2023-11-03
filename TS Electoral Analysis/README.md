@@ -14,15 +14,15 @@ I have obtained this electoral data from the **Open City Urban Data Portal** for
 
 
 ## Analysis Process:
-After importing the dataset with the help of Power Query, I performed data **cleansing**, data **wrangling**, data **modification**, data **transformation**, data **manipulation**, and data modeling as per the requirements to draw appropriate conclusions. I achieved this by using calculated **measures**, calculated columns, and **DAX (Data Analysis Expressions)**. Additionally, I **created relationships** between tables by utilizing primary keys and foreign keys. For visualization, I used various charts and value cards for **KPI presentation(Key Performance Indicator).**
+After importing the dataset with the help of Power Query, We performed data **cleansing**, data **wrangling**, data **modification**, data **transformation**, data **manipulation**, and data modeling as per the requirements to draw appropriate conclusions. We achieved this by using calculated **measures**, calculated columns, and **DAX (Data Analysis Expressions)**. Additionally, We **created relationships** between tables by utilizing primary keys and foreign keys. For visualization, We used various charts and value cards for **KPI presentation(Key Performance Indicator).**
 
-In this analysis process, I have included a total of 119 constituencies. I've used three separate dashboard pages for displaying the data visualizations for the **2014** and **2018** elections. In another dashboard, I compared both datasets, showing constituency-wise votes, vote share, along with party-wise votes and vote share percentages for better clarity. This allowed me to identify the leading party with a significant vote share percentage within each constituency and by party.
+In this analysis process, We have included a total of 119 constituencies. we have used three separate dashboard pages for displaying the data visualizations for the **2014** and **2018** elections. In another dashboard, We compared both datasets, showing constituency-wise votes, vote share, along with party-wise votes and vote share percentages for better clarity. This allowed me to identify the leading party with a significant vote share percentage within each constituency and by party.
 
 ## Visualizations
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/c202b80d-9e1a-4bb0-a7db-8a29625c980e) 
 
-•	In the **2014** election dashboard, with the help of a single card, I visualized that **68** different parties participated with **1664** individual candidates across **3** constituency categories. Out of **28** million people, **19** million individuals participated in this assembly election as electors to support their respective parties across **119** constituencies.
+•	In the **2014** election dashboard, with the help of a single card, We visualized that **68** different parties participated with **1664** individual candidates across **3** constituency categories. Out of **28** million people, **19** million individuals participated in this assembly election as electors to support their respective parties across **119** constituencies.
 
 •	In terms of gender-wise participation, **92.01%** of male candidates participated, whereas only **7.99%** of female candidates took part in this assembly election. If we look at the numbers, there were **1531** male candidates, while female candidates numbered **133**.
 
@@ -39,13 +39,30 @@ The color gradient represents the vote share among all 10 districts based on the
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/70928e4f-0763-4d57-9089-164e3240c506)
 
 
-•	In the **2018** election dashboard, with the help of a single card, I visualized that **92** different parties participated with **1816** individual candidates across 3 constituency categories. Out of **28** million people, **20** million individuals participated in this assembly election as electors to support their respective parties across **119** constituencies.
+•	In the **2018** election dashboard, with the help of a single card, We visualized that **92** different parties participated with **1816** individual candidates across 3 constituency categories. Out of **28** million people, **20** million individuals participated in this assembly election as electors to support their respective parties across **119** constituencies.
 
 
 •	In terms of gender-wise participation, **92.2%** of male candidates participated, whereas only **7.69%**  of female candidates took part in this assembly election. In terms of numbers, there were **1679** male candidates, **140** female candidates, and 1 candidate in the **'Other Gender'** category. Only one candidate from the **'Other Gender'** category participated in the **2018** assembly election.
 
 
 •	If we consider the constituency type or category to segregate candidate participation, we can clearly see that out of the total number of candidates, which is **1664**, **1447** participated under the **General** Category, accounting for **79.46%**. There were **234** candidates who participated under the **SC** category, representing **12.85%**, and **140** candidates participated under the **ST** category, with a percentage of **7.69%**.
+
+
+
+
+
+![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/54355e16-7447-4e08-9fd0-7b90a80cfdff)
+
+
+
+
+
+
+
+If we compare the sex ratio participation between 2014 and 2018, we can observe an increase in candidate participation from 2014 to 2018. In addition to male and female candidates, candidates from the 'Other Gender' category also participated in 2018. Looking at the numbers, we see that the percentage of male candidates increased from 92.01% to 90.2%, while the percentage of female candidates decreased from 7.99% to 7.69%. The 'Other Gender' category increased to 0.11%.
+
+
+
 
 
 
