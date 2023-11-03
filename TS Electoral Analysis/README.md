@@ -30,7 +30,7 @@ In this analysis process, We have included a total of 119 constituencies. we hav
 
 •	In the accounting of constituency-wise total number of votes, **Lal Bahadur Nagar** is the top leader with **7,274,708** votes and falls under Rangareddy District. **Kukatpally** is the second most leading constituency with **6,734,931** votes and is located in **Hyderabad** District, while **Quthbullapur** is the third top leading constituency with **6,679,614** votes under the **Medchal-Malkajgiri** district. This vote share comparison is visualized by constituency with column Chart.
 
-•	Using a customized map and the available data, this visualization illustrates the vote share of 119 constituencies across 10 districts, sourced from the **Open City Urban Data Portal**.
+•	Using a customized map and the available data, this visualization illustrates the vote share of **119** constituencies across 10 districts, sourced from the **Open City Urban Data Portal**.
 
 The color gradient represents the vote share among all 10 districts based on the number of constituencies. 
 •	With the slicer, we can filter by Constituency Name, Party Name, and District Name. This allows us to visualize our data based on the selected filters
@@ -60,7 +60,7 @@ The color gradient represents the vote share among all 10 districts based on the
 
 
 
-If we compare the sex ratio participation between 2014 and 2018, we can observe an increase in candidate participation from 2014 to 2018. In addition to male and female candidates, candidates from the 'Other Gender' category also participated in 2018. Looking at the numbers, we see that the percentage of male candidates increased from 92.01% to 90.2%, while the percentage of female candidates decreased from 7.99% to 7.69%. The 'Other Gender' category increased to 0.11%.
+If we compare the **sex ratio** participation between **2014** and **2018**, we can observe an increase in candidate participation from **2014** to **2018**. In addition to **male** and **female** candidates, candidates from the **'Other Gender'** category also participated in **2018**. Looking at the numbers, we see that the percentage of male candidates increased from **92.01%** to **90.2%**, while the percentage of female candidates decreased from  **7.99%**  to **7.69%**. The 'Other Gender' category increased to 0.11%.
 
 
 
