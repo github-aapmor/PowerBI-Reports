@@ -5,7 +5,7 @@ This Dashboard about Telangana Nutrition Analysis (Dept. Of Women and Child Welf
 
 ## **Source of Data**:
 
-We obtained our data from the Telangana Open Data Portal, where we downloaded the dataset(.Csv Format) titled “**Telangana Women and Child Development - Nutritional Status of Children in Anganwadi centres**”. 
+We obtained data from the Telangana Open Data Portal, where we downloaded the dataset(.Csv Format) titled “**Telangana Women and Child Development - Nutritional Status of Children in Anganwadi centres**”. 
 
 This dataset contains information on the
 
