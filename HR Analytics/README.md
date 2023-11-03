@@ -5,11 +5,22 @@ This Documentaion all about HR Analyic Report
 ## **Analysis Process**:
  
 After importing the dataset with the help of Power Query, We performed data cleansing, data modification, data transformation, data manipulation, and Data Modeling as per the requirements to draw appropriate conclusions. We achieved this by using calculated measures, calculated columns, and DAX (Data Analysis Expressions). Additionally, We created relationships between tables by utilizing primary keys and foreign keys. For visualization, We used various charts and value cards for KPI presentation(Key Performance Indicator).
+
+
+![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/2f4c10da-13f9-46fe-be60-a6b7f03bdbde)
+
  
 ## **HR Dashboard**
 
 
-![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/f6650895-8dbc-42f7-99a1-1e4d3a4c5a0a)
+![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/59b1613f-1d75-4f6d-a617-d52a17ed11b9)
+
+
+![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/8958e15c-2bbc-4492-a14a-908e7ec75dbe)
+
+**In the Left hand side we have Updated some filter slicer so as per Date Hirarchy, Department, Position,Employee Category, Manager we can filter the data which is available on all the pages.**
+
+
 
 
 We created a column chart to analyze the number of employees as per age group, based on the dashboard that shows the data of **90** employees from **7** departments and **3** employee categories.
@@ -35,7 +46,8 @@ We created a pie chart to show the gender-wise distribution of employees, with *
 
 
 
-![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/58b151d5-e976-4518-8e5d-87fabc23dd75)
+![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/a1aeae83-0ed0-4549-b71b-dfcc3b4cf309)
+
 
 
 
@@ -47,7 +59,9 @@ If we calculate the number of employees terminated by department, we can see tha
 
 When we examine the gender-wise distribution, we can observe that **61.54%** of terminated candidates were **male**, while **38.46%** were **female** employees. Regarding position-wise terminations, out of the **26** employees, **19** employees were terminated from staff positions, constituting **73.08%** of the total. Additionally, **4** contractual employees were terminated, representing **15.38%**, and **3** trainee employees were terminated, making up **11.54%**
 
-![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/5fcdd7f9-f7fb-48ed-8afa-f2712891b945)
-![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/c837cb12-7be4-46f3-a3f7-707b13180d9e)
+![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/f84bcd20-28b2-4aa1-8331-d60df288b6c6)
+
+
+
 
 
