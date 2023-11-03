@@ -32,7 +32,7 @@ Importing data with the help of Power Query using using Folder then merging data
 
 ### we discuss about analysis done in Nutrition Data:
 
-### Visualizations
+### Nutrition Analysis Dashboard
 
 
 
@@ -81,6 +81,7 @@ The **fifth highest** district is **Sangareddy**, with **3.8 million** children 
 
 •	**For the moderate weight category**, the number of people (in millions) was **2.1** in 2019, **2.3** in 2020, **2.8** in 2021, **2.3** in 2022, and **0.4** in 2023
 
+### Year wise Underweight category Report:
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/c8bf65a8-0ce3-4396-825b-91b7810b5659)
 
@@ -93,6 +94,8 @@ The **fifth highest** district is **Sangareddy**, with **3.8 million** children 
 
 •	**Moderate underweight category**:In this category are 2019, 2020, and 2021, with 1983K **(33.57%), 15124K (32.22%), and 1893K (32.05%**) children respectively. This indicates that the number of moderate weight children has remained relatively stable over the years, which suggests that there is still room for improvement in the prevention and treatment of acute malnutrition among children.
 
+### Year wise Wasted category Report:
+
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/e6997439-953e-42d8-85b9-ff9491fb5d80)
 
 The above image shows the **year-wise distribution of wasted weight categories** among children in Telangana State from 2019 to 2023. The pie charts depict the top three years for each category: normal weight, severely Wasted, and moderate Wasted.
@@ -102,6 +105,8 @@ The above image shows the **year-wise distribution of wasted weight categories**
 •	The severe wasted category has decreased over the years, from **32.72%** in 2019 to **36.89%** in 2020, then slightly increased to **30.03%** in 2021. 
 
 •	The moderate wasted category has remained relatively stable over the years, ranging from 30.09% to 38.12%. This indicates that there is still room for improvement in the prevention and treatment of acute malnutrition among children, and that the causes and consequences of this condition need to be addressed more effectively. 
+
+### Year wise Stunted category Report:
 
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/b3556dd3-f023-49c5-9ac1-6e5fceaeecbe)
