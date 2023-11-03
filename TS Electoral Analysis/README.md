@@ -5,6 +5,7 @@ This Dashboards is all about the Detailed election results for the year of **201
 I have obtained this electoral data from the **Open City Urban Data Portal** for analysis purposes, which is an open platform.
 
 https://data.opencity.in/dataset/telangana-assembly-elections-2018
+
 https://data.opencity.in/dataset/telangana-assembly-elections-2014
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/0ad45939-f5cd-4291-b191-1b997caa2752)
