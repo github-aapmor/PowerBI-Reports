@@ -45,6 +45,8 @@ If we consider the months between the years **2011** and **2019**, we can see th
 
 If we calculate the number of employees terminated by department, we can see that in the Sales department, out of **26** terminated employees, 13 employees were terminated, accounting for **50**% of the total. The remaining **50%** is distributed among all the other departments. In the **Marketing** department, **5** employees were terminated, representing **19.23%.** In the **IT** department, **4** employees were terminated, making up **15.38%**  of the total. In the **Accounts** department, **2** employees were terminated, accounting for **7.69%**. In the HR department, **1** employee was terminated, representing **3.85%.** Finally, in the **Legal** department, **1** employee was terminated, also at **3.85%**.
 
+When we examine the gender-wise distribution, we can observe that **61.54%** of terminated candidates were **male**, while **38.46%** were **female** employees. Regarding position-wise terminations, out of the **26** employees, **19** employees were terminated from staff positions, constituting **73.08%** of the total. Additionally, **4** contractual employees were terminated, representing **15.38%**, and **3** trainee employees were terminated, making up **11.54%**
+
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/5fcdd7f9-f7fb-48ed-8afa-f2712891b945)
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/c837cb12-7be4-46f3-a3f7-707b13180d9e)
 
