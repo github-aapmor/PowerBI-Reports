@@ -18,7 +18,7 @@ After importing the dataset with the help of Power Query, We performed data clea
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/8958e15c-2bbc-4492-a14a-908e7ec75dbe)
 
-**In the Left hand side we have Updated some filter slicer so as per Date Hirarchy, Department, Position,Employee Category, Manager we can filter the data which is available on all the pages.**
+**In the Left hand side we have Updated some filter slicer so as per Date Hierarchy, Department, Position,Employee Category, Manager we can filter the data which is available on all the pages.**
 
 
 
