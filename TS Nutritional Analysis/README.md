@@ -10,38 +10,29 @@ We obtained our data from the Telangana Open Data Portal, where we downloaded th
 This dataset contains information on the
 
 **Reporting Year**, 
-
 **Report Month**, 
-
 **Distrct_Name**, 
-
 **Project Name**, 
-
 **AWC_ID**, 
-
 **AWC_Name**,
-
 **Total_UW**, 
-
 **Total_SUW**, 
-
 **Total_MUW**, 
-
 **Tot_Wasting_Normal**,
-
 **Tot_Wasting_MAM**, 
-
 **Tot_Wasting_SAM**,
-
 **Tot_Stunting_Normal**, 
-
 **Total_Stunting_MAM**,
-
 **Total_Stunting_SAM** of children who attend Anganwadi centres in Telangana, which are rural child care facilities that provide nutrition, health services.
+
+### Analysis Process:
+
+Importing data with the help of Power Query using using Folder then merging data and performing cleaning, data modification, data transformation, data manipulation, and Data Modeling as per the requirements to draw appropriate conclusions. Additionally, We created relationships between tables by utilizing primary keys and foreign keys. For visualization, We used various charts and value cards for KPI presentation(Key Performance Indicator).
+
 
 ### we discuss about analysis done in Nutrition Data:
 
-### Dashboard
+### Visualizations
 
 
 
