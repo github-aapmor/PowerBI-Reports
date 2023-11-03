@@ -14,7 +14,7 @@ We have obtained this electoral data from the **Open City Urban Data Portal** fo
 
 
 ## Analysis Process:
-After importing the dataset with the help of Power Query, We performed data **cleansing**, data **wrangling**, data **modification**, data **transformation**, data **manipulation**, and data modeling as per the requirements to draw appropriate conclusions. We achieved this by using calculated **measures**, calculated columns, and **DAX (Data Analysis Expressions)**. Additionally, We **created relationships** between tables by utilizing primary keys and foreign keys. For visualization, We used various charts and value cards for **KPI presentation(Key Performance Indicator).**
+After importing the dataset with the help of Power Query, We performed data **cleansing**, data **wrangling**, data **modification**, data **transformation**, data **manipulation**, and **Data Modeling** as per the requirements to draw appropriate conclusions. We achieved this by using calculated **measures**, calculated columns, and **DAX (Data Analysis Expressions)**. Additionally, We created **relationships** between tables by utilizing primary keys and foreign keys. For visualization, We used various charts and value cards for **KPI presentation(Key Performance Indicator).**
 
 In this analysis process, We have included a total of 119 constituencies. we have used three separate dashboard pages for displaying the data visualizations for the **2014** and **2018** elections. In another dashboard, We compared both datasets, showing constituency-wise votes, vote share, along with party-wise votes and vote share percentages for better clarity. This allowed us to identify the leading party with a significant vote share percentage within each constituency and by party.
 
@@ -33,6 +33,7 @@ In this analysis process, We have included a total of 119 constituencies. we hav
 •	Using a customized map and the available data, this visualization illustrates the vote share of 119 constituencies across 10 districts, sourced from the **Open City Urban Data Portal**.
 
 The color gradient represents the vote share among all 10 districts based on the number of constituencies. 
+•	With the slicer, we can filter by Constituency Name, Party Name, and District Name. This allows us to visualize our data based on the selected filters
 
 
 
@@ -48,12 +49,12 @@ The color gradient represents the vote share among all 10 districts based on the
 •	If we consider the constituency type or category to segregate candidate participation, we can clearly see that out of the total number of candidates, which is **1664**, **1447** participated under the **General** Category, accounting for **79.46%**. There were **234** candidates who participated under the **SC** category, representing **12.85%**, and **140** candidates participated under the **ST** category, with a percentage of **7.69%**.
 
 
+## Point Of Analysis:
+
 
 
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/54355e16-7447-4e08-9fd0-7b90a80cfdff)
-
-
 
 
 
