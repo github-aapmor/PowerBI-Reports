@@ -7,7 +7,8 @@
 
 
 
-![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/651d59b6-b41b-4b1b-a3c2-65a22582077a)
+![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/58b151d5-e976-4518-8e5d-87fabc23dd75)
+
 
 
 If we observe the Terminated dashboard, we can see that out of **90** employees, **26** employees were terminated through **voluntary** and **non-voluntary** procedures between **2011** and **2019**.
