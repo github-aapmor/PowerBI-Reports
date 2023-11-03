@@ -24,7 +24,7 @@ In this analysis process, I have included a total of 119 constituencies. I've us
 
 •	In terms of gender-wise participation, **92.01%** of male candidates participated, whereas only **7.99%** of female candidates took part in this assembly election. If we look at the numbers, there were **1531** male candidates, while female candidates numbered **133**.
 
-•	If we consider the constituency type or category to segregate candidate participation, we can clearly see that out of the total number of candidates, which is **1664**, **1312** participated under the General**** Category, accounting for **78.61%**. There were **230** candidates who participated under the **SC** category, representing **13.78%**, and 127 candidates participated under the **ST** category, with a percentage of **7.61%**.
+•	If we consider the constituency type or category to segregate candidate participation, we can clearly see that out of the total number of candidates, which is **1664**, **1312** participated under the **General** Category, accounting for **78.61%**. There were **230** candidates who participated under the **SC** category, representing **13.78%**, and 127 candidates participated under the **ST** category, with a percentage of **7.61%**.
 
 
 
