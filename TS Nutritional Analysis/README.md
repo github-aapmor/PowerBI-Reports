@@ -27,7 +27,7 @@ This dataset contains information on the
 
 ### Analysis Process:
 
-Importing data with the help of Power Query using using Folder then merging data and performing cleaning, data modification, data transformation, data manipulation, as per the requirements to draw appropriate conclusions.For visualization, We used various charts and value cards for KPI presentation(Key Performance Indicator).
+Importing data with the help of Power Query using using Folder then Appending data and performing cleaning, data modification, data transformation, data manipulation, as per the requirements to draw appropriate conclusions.For visualization, We used various charts and value cards for KPI presentation(Key Performance Indicator).
 
 
 ### we discuss about analysis done in Nutrition Data:
