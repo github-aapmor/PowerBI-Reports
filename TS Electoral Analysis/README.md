@@ -68,7 +68,10 @@ The color gradient represents the vote share among all 10 districts based on the
 If we compare the **sex ratio** participation between **2014** and **2018**, we can observe an increase in candidate participation from **2014** to **2018**. In addition to **male** and **female** candidates, candidates from the **'Other Gender'** category also participated in **2018**. Looking at the numbers, we see that the percentage of male candidates increased from **92.01%** to **90.2%**, while the percentage of female candidates decreased from  **7.99%**  to **7.69%**. The 'Other Gender' category increased to 0.11%.
 
 
-In **2014**, **68** parties participated, and in **2018**, **92** parties participated. If we consider these parties together, we can observe that the top **5** parties are **TRS**, **INC**, **TDP**, **BJP**, and **IND**. **TRS** is the top party with the highest number of elector supporters in both **2014** and **2018**. In **2014**, it had **6.6** million supporters, and in **2018**, it had **9.7** million
+In **2014**, **68** parties participated, and in **2018**, **92** parties participated. If we consider these parties together, we can observe that the top **5** parties are **TRS**, **INC**, **TDP**, **BJP**, and **IND**. **TRS** is the top party with the highest number of elector supporters in both **2014** and **2018**. In **2014**, it had **6.6** million supporters, and in **2018**, it had **9.7** million.
+
+
+We have also visualized the top **5** constituencies with a valid number of votes by combining the **2014** and **2018** data. We visualized the candidates with vote share percentages between **2014** and **2018**.
 
 
 
