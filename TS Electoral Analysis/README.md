@@ -18,7 +18,7 @@ After importing the dataset with the help of Power Query, We performed data **cl
 
 In this analysis process, We have included a total of 119 constituencies. we have used three separate dashboard pages for displaying the data visualizations for the **2014** and **2018** elections. In another dashboard, We compared both datasets, showing constituency-wise votes, vote share, along with party-wise votes and vote share percentages for better clarity. This allowed us to identify the leading party with a significant vote share percentage within each constituency and by party.
 
-## Visualizations
+## Visualizations For the Year 2014:
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/c202b80d-9e1a-4bb0-a7db-8a29625c980e) 
 
@@ -34,6 +34,9 @@ In this analysis process, We have included a total of 119 constituencies. we hav
 
 The color gradient represents the vote share among all 10 districts based on the number of constituencies. 
 •	With the slicer, we can filter by Constituency Name, Party Name, and District Name. This allows us to visualize our data based on the selected filters
+
+
+## Visualization For the Year 2018:
 
 
 
