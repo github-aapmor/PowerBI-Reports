@@ -39,5 +39,15 @@ The color gradient represents the vote share among all 10 districts based on the
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/70928e4f-0763-4d57-9089-164e3240c506)
 
 
+•	In the **2018** election dashboard, with the help of a single card, I visualized that **92** different parties participated with **1816** individual candidates across 3 constituency categories. Out of **28** million people, **20** million individuals participated in this assembly election as electors to support their respective parties across **119** constituencies.
+
+
+•	In terms of gender-wise participation, **92.2%** of male candidates participated, whereas only **7.69%**  of female candidates took part in this assembly election. In terms of numbers, there were **1679** male candidates, **140** female candidates, and 1 candidate in the **'Other Gender'** category. Only one candidate from the **'Other Gender'** category participated in the **2018** assembly election.
+
+
+•	If we consider the constituency type or category to segregate candidate participation, we can clearly see that out of the total number of candidates, which is **1664**, **1447** participated under the **General** Category, accounting for **79.46%**. There were **234** candidates who participated under the **SC** category, representing **12.85%**, and **140** candidates participated under the **ST** category, with a percentage of **7.69%**.
+
+
+
 
 
