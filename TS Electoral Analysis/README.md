@@ -2,7 +2,7 @@
 This Documentations is all about the Detailed election results for the year of **2014** and **2018** assembly elections in **Telangana State** Includes: All candidates vote share, votes and voters for each constituency and candidate along with Party and their respective vote share Percentages.
 
 ## **Data Source** (Domain: Electoral):
-I have obtained this electoral data from the **Open City Urban Data Portal** for analysis purposes, which is an open platform.
+We have obtained this electoral data from the **Open City Urban Data Portal** for analysis purposes, which is an open platform.
 
 **https://data.opencity.in/dataset/telangana-assembly-elections-2018**
 
@@ -16,7 +16,7 @@ I have obtained this electoral data from the **Open City Urban Data Portal** for
 ## Analysis Process:
 After importing the dataset with the help of Power Query, We performed data **cleansing**, data **wrangling**, data **modification**, data **transformation**, data **manipulation**, and data modeling as per the requirements to draw appropriate conclusions. We achieved this by using calculated **measures**, calculated columns, and **DAX (Data Analysis Expressions)**. Additionally, We **created relationships** between tables by utilizing primary keys and foreign keys. For visualization, We used various charts and value cards for **KPI presentation(Key Performance Indicator).**
 
-In this analysis process, We have included a total of 119 constituencies. we have used three separate dashboard pages for displaying the data visualizations for the **2014** and **2018** elections. In another dashboard, We compared both datasets, showing constituency-wise votes, vote share, along with party-wise votes and vote share percentages for better clarity. This allowed me to identify the leading party with a significant vote share percentage within each constituency and by party.
+In this analysis process, We have included a total of 119 constituencies. we have used three separate dashboard pages for displaying the data visualizations for the **2014** and **2018** elections. In another dashboard, We compared both datasets, showing constituency-wise votes, vote share, along with party-wise votes and vote share percentages for better clarity. This allowed us to identify the leading party with a significant vote share percentage within each constituency and by party.
 
 ## Visualizations
 
