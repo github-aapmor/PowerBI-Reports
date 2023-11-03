@@ -17,3 +17,7 @@ Year wise wasted Weight Category :
 Year wise Stunted Weight Category :
 <img width="295" alt="Screenshot 2023-11-02 185316" src="https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/6e5b0e31-8315-4f93-ad8b-81b5f898870e">
 
+
+
+![App Screenshot](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/6d739af9-33e5-45c4-b1b0-6cf7b11a82e6)
+
