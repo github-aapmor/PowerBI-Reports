@@ -1,3 +1,14 @@
+ # **HR Analytics**
+ 
+This Documentaion all about HR Analyic Report
+ 
+## **Analysis Process**:
+ 
+After importing the dataset with the help of Power Query, We performed data cleansing, data modification, data transformation, data manipulation, and Data Modeling as per the requirements to draw appropriate conclusions. We achieved this by using calculated measures, calculated columns, and DAX (Data Analysis Expressions). Additionally, We created relationships between tables by utilizing primary keys and foreign keys. For visualization, We used various charts and value cards for KPI presentation(Key Performance Indicator).
+ 
+## **HR Dashboard**
+
+
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/f6650895-8dbc-42f7-99a1-1e4d3a4c5a0a)
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/cd5bbe30-d23a-4913-b627-9e9a553222fe)
 
