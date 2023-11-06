@@ -74,6 +74,16 @@ In **2014**, **68** parties participated, and in **2018**, **92** parties partic
 We have also visualized the top **5** constituencies with a valid number of votes by combining the **2014** and **2018** data. We visualized the candidates with vote share percentages between **2014** and **2018**.
 
 
+After careful consideration, we have determined that **Lal Bahadur Nagar**, **Malkajgiri**, **Uppal**, **Serilingampally**, and **Quthbullapur** were the top **5** constituencies when we calculated their vote share for the years **2014** and **2018**. Now, let's take a closer look at the number of votes in each of these constituencies:
+
+In **Lal Bahadur Nagar** constituency, there were **7,274,708** votes in 2014 and **8,551,445** votes in **2018**.
+**Malkajgiri** constituency had **5,308,929** votes in **2014** and **8,798,958** votes in **2018**.
+**Uppal** constituency recorded **6,100,245** votes in **2014** and **7,976,465** votes in **2018**.
+**Serilingampally** constituency had **5,941,824** votes in **2014** and **8,114,345** votes in **2018**.
+**Quthbullapur** constituency received **6,679,614** votes in **2014** and **5,787,360** votes in **2018**.
+This data reflects the vote share and the number of votes in these constituencies for the years **2014** and **2018**.
+
+
 
 
 
