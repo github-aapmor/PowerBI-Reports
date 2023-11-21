@@ -23,6 +23,8 @@ With the help of a Donut Chart, We visually presented the time duration used by 
 Utilizing an area chart, we visually represented the time duration (in minutes) used between the date range from **September 2022** to **June 2023**. Notably, there is a significant **trend** in time usage observed from 9th October 2022 to 16th December 2022, with 29th November marking **120,842** minutes and 11th October at **71,004** minutes as the peak durations.
 
 In the year **2023**, January 30th recorded **94,440** minutes, and March 26th observed **123,475** minutes as the peak durations. To allow for a more detailed view, I've implemented a zoom slider enabling the examination of each segment within the date hierarchy.
+
+
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149660927/0fedd328-593e-49ca-8e3d-e76944c0eb62)
 
 
