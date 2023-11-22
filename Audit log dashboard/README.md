@@ -27,6 +27,18 @@ I employed a column line chart to visualize reassigned and reopened tickets base
 
 Line chart to illustrate the number of tickets year and month-wise. It was evident that March of the year 2016 had the highest count, totaling 57.96K tickets, while May of the year 2017 marked the lowest count with 0.03K tickets.
 
+![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/797c635a-33e8-4e03-bab1-57b95445a4af)
+
+
+
+
+
+
+
+![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/a73ca6b4-f308-4da2-94a7-17cace01ea88)
+
+
+
 
 
 
