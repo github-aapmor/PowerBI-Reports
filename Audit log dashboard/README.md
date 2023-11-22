@@ -54,6 +54,13 @@ used bar chart to depict the distribution of the top countries within the overal
 • Countries 164, 53, and 89, constituting 9.09%.
 
 
+A treemap was generated to illustrate the count of tickets based on both country and subcategory. In this visual representation, each category is represented by a colored rectangle, and the size of each rectangle corresponds to a specific quantitative value. Notably, category 28 exhibited the highest count with 16.29K records, making it the highest in the categorical hierarchy. Similarly, subcategory 174 stood out with the highest count of 30.99K records within the subcategorical hierarchy.
+
+
+
+
+
+
 
 
 
