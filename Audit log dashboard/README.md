@@ -38,6 +38,39 @@ Line chart to illustrate the number of tickets year and month-wise. It was evide
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/a73ca6b4-f308-4da2-94a7-17cace01ea88)
 
 
+I created three donut charts based on the total number of tickets, each representing different categories: urgency, impact, and priority.
+
+Urgency Category:
+
+Medium urgency tickets occupy the majority at 94.63%.
+Low urgency tickets account for 2.62%.
+High urgency tickets represent 2.75%.
+Impact Category:
+
+Medium impact tickets dominate with 94.74%.
+Low impact tickets constitute 2.85%.
+High impact tickets make up 2.41%.
+Priority Category:
+
+Medium priority tickets cover the highest proportion at 93.34%.
+Low priority tickets comprise 2.96%.
+High priority tickets represent 2.33%.
+Critical priority tickets make up 1.53%.
+
+
+I generated a comprehensive table providing detailed information about each ticket. The table includes the following fields:
+
+Ticket Number: A unique identifier for each ticket.
+Ticket Type: The category or type of the ticket.
+Assignment To: The individual or department responsible for handling the ticket.
+Opened At: The date and time when the ticket was initially reported or opened.
+Resolved By: The entity or individual responsible for resolving the ticket.
+Resolved At: The date and time when the ticket was successfully resolved.
+Priority: The level of urgency or importance assigned to the ticket.
+Closed At: The date and time when the ticket was officially closed.
+Duration Per Closed Ticket: The time taken to resolve and close each ticket.
+
+
 
 
 
