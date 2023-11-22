@@ -61,13 +61,21 @@ Critical priority tickets make up 1.53%.
 I generated a comprehensive table providing detailed information about each ticket. The table includes the following fields:
 
 Ticket Number: A unique identifier for each ticket.
+
 Ticket Type: The category or type of the ticket.
+
 Assignment To: The individual or department responsible for handling the ticket.
+
 Opened At: The date and time when the ticket was initially reported or opened.
+
 Resolved By: The entity or individual responsible for resolving the ticket.
+
 Resolved At: The date and time when the ticket was successfully resolved.
+
 Priority: The level of urgency or importance assigned to the ticket.
+
 Closed At: The date and time when the ticket was officially closed.
+
 Duration Per Closed Ticket: The time taken to resolve and close each ticket.
 
 
