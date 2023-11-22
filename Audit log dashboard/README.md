@@ -5,6 +5,8 @@ This dashboard provides information on the number of tickets raised, their curre
 # About Data
 We collected the dataset from the Kaggle platform.
 
+https://www.kaggle.com/datasets/vipulshinde/incident-response-log
+
 # Data Transformation:
 
 After collecting the dataset from the Kaggle website, we utilized MSSQL to store it in a database. Subsequently, in MSSQL, we performed transformations such as changing columns with "?" to "N/A" and calculated the duration using the "opened_at" and "closed_at" date columns. Finally, employing the Import mode method from Power BI to SQL Server, we executed additional transformations on the data.
