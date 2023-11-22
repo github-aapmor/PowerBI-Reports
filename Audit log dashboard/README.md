@@ -29,7 +29,29 @@ Line chart to illustrate the number of tickets year and month-wise. It was evide
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/797c635a-33e8-4e03-bab1-57b95445a4af)
 
+I created a donut chart to visualize how tickets were reported. Phone type reports dominated, occupying 99.9%, while email type reports constituted a minor percentage at 0.1%.
 
+Additionally, another donut chart was generated to represent notify generated for the tickets. In this chart, phone type notifications occupied 99.9%, with email type notifications accounting for the remaining 0.1%.
+
+I created bar charts to visualize the distribution of the top symptoms among the total number of tickets. The representation is as follows:
+
+Symptom 541, occupying 57.89%.
+
+Symptom 161, accounting for 15.78%.
+
+Symptom 567, constituting 15.79%.
+
+Symptom 590, making up 5.26%.
+
+Symptom 599, representing 4.89%.
+
+used bar chart to depict the distribution of the top countries within the overall ticket count. The representation is as follows:
+
+• Country 29, occupying 39.39%.
+
+• Country 239, accounting for 33.33%.
+
+• Countries 164, 53, and 89, constituting 9.09%.
 
 
 
