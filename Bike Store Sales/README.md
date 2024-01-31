@@ -96,7 +96,7 @@ We have generated a yearly report focusing on the percentage change in growth ov
 
 Specifically, we noticed that **Quarter1** exhibited the highest quarter-over-quarter (QOQ) growth rate at **133.31%**. In contrast, **Quarter 3** displayed a negative growth rate of **-53.79%**.
 
-I have created a decomposition tree map to analyze product-wise revenue. The total revenue amounts to **$55.9 million**, and among the 9 brands, **Trek**, **Electr**a, and **Sun Bicycles** hold the top three positions with revenues of **$22.36 million**, **$15.88 million**, and **$9.68 million**, respectively.
+I have created a decomposition tree map to analyze product-wise revenue. The total revenue amounts to **$55.9 million**, and among the **9** brands, **Trek**, **Electra**, and **Sun Bicycles** hold the top three positions with revenues of **$22.36 million**, **$15.88 million**, and **$9.68 million**, respectively.
 
 Within the Trek brand, Road Bikes, Cyclocross Bicycles, and Children Bicycles contribute the most revenue among seven categories, with figures of **$9.45 million**, **$2.57 million**, and **$2.09 million**, respectively.
 
