@@ -66,6 +66,8 @@ Among the **6** sales representatives, **Marcelene Boyer** stands out as the top
 
 <img width="601" alt="image" src="https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/29133554-0e2e-470f-8281-f5a5bb1da95e">
 
+We have generated a year-wise revenue forecasting model for the upcoming three years. During our analysis, we observed the forecasted values for different areas, including the ForecastPoint value, as well as the Upper and Lower Bound Values for each quarter over the three-year forecasting period.
+
 
 In our monthly table, we have observed the standard margin or profit margin for each month. Across the 12 months, the highest profit margin was recorded in **August** at **39.33%**, while the lowest was in **April** at **37.23%**.
 
