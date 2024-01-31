@@ -15,3 +15,7 @@ https://github.com/github-aapmor/PowerBI-Reports/blob/main/HR%20Analytics/README
 
 ### Audit Log Dashboard:
 https://github.com/github-aapmor/PowerBI-Reports/tree/main/Audit%20log%20dashboard
+
+
+### Audit Analysis Report:
+https://github.com/github-aapmor/PowerBI-Reports/tree/main/Audit%20Analysis%20Report
