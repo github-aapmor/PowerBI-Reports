@@ -16,7 +16,7 @@ Across the three years (2021, 2022, and 2023), it was observed that **2022** sto
 
 Out of the three states, **New York (NY)** contributed the most to the overall revenue and profit, generating **$38** million in revenue and **$15** million in profit. This indicates that New York was the top-performing state in terms of both revenue generation and profitability compared to the other two states.
 
-Among the seven bike categories, **road bikes** lead in **actual revenue** with **$12.5** million and a corresponding **profit** of **$4.4** million. The second-highest category is cruisers Bicycles with **$12.2** million in revenue and **$4.6** million in profit.
+Among the seven product categories, **road bikes** lead in **actual revenue** with **$12.5** million and a corresponding **profit** of **$4.4** million. The second-highest category is cruisers Bicycles with **$12.2** million in revenue and **$4.6** million in profit.
 
 
 
