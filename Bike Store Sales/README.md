@@ -2,7 +2,7 @@
 
 
 ### About Data
-This dashboard provides a detailed overview of bike product sales in the USA over a three-year period. It covers sales across different brands, states, cities, and stores. Additionally, it includes information about individual sales representatives, including the commissions they earned.
+This data provides a detailed overview of bike product sales in the USA over a three-year period(2021 to 2023). It covers sales across different brands, states, cities, and stores. Additionally, it includes information about individual sales representatives, including the commissions they earned.
 
 ## Sales Summary
 
