@@ -62,6 +62,47 @@ Over the course of three years, **Marcelene Boyer** received commission amounts 
 
 Among the **6** sales representatives, **Marcelene Boyer** stands out as the top performer. He secured the highest number of order quantities, with **24,956** orders. **Marcelene** predominantly sold products from the **Electra** brand, achieving the highest sales of **8,849** products, and received an overall commission amount of **$1,606,190**. **Venita Daniel** follows closely with **24,571** orders, selling **8,642** **Electra** brand products, and earning a commission of **$1,566,571**. **Genna Serrano** takes the third spot, selling **7,285** products, including **3,148** from **Electra**, and earning a commission of **$216,672**. **Mireya Copeland**, **Kali Vargas**, and **Layla Terrell** also contributed to the sales and commission figures, with **Marcelene Boyer** emerging as the top performer in both order quantities and commission earnings.
 
+# Forecastng and Insights:
+
+<img width="601" alt="image" src="https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/29133554-0e2e-470f-8281-f5a5bb1da95e">
+
+
+In our monthly table, we have observed the standard margin or profit margin for each month. Across the 12 months, the highest profit margin was recorded in **August** at **39.33%**, while the lowest was in **April** at **37.23%**.
+
+In our yearly table categorized by quarters, we have observed the **Return on Investment** (ROI%) for each quarter. Across the 12 quarters, the highest ROI% was recorded in **2021 Quarter 2** at **87.06%**. Conversely, the lowest ROI% was observed in **Quarter 2** of the year **2023**, amounting to **58.04%**.
+
+
+We have a table containing yearly revenue, previous year revenue, Year-over-Year (YOY) variance, YOY percentage change, and Return on Investment (ROI%).
+
+Observing the transition from 2021 to 2022, the YOY variance amounted to **$32.55** million, and the YOY percentage variance was **2888.47%.**
+
+Conversely, for the same period, the YOY variance was **-$12.48** million (expressed in millions), and the YOY percentage variance was **-37.06%**.
+
+The ROI% (Return on Investment) showed the following trends:
+
+In 2021, the ROI% was **84.30%.**
+In 2022, the ROI% decreased to **62.47%.**
+In 2023, the ROI% further decreased to **59.58%**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
