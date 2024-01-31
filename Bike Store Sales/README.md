@@ -62,9 +62,10 @@ Over the course of three years, **Marcelene Boyer** received commission amounts 
 
 Among the **6** sales representatives, **Marcelene Boyer** stands out as the top performer. He secured the highest number of order quantities, with **24,956** orders. **Marcelene** predominantly sold products from the **Electra** brand, achieving the highest sales of **8,849** products, and received an overall commission amount of **$1,606,190**. **Venita Daniel** follows closely with **24,571** orders, selling **8,642** **Electra** brand products, and earning a commission of **$1,566,571**. **Genna Serrano** takes the third spot, selling **7,285** products, including **3,148** from **Electra**, and earning a commission of **$216,672**. **Mireya Copeland**, **Kali Vargas**, and **Layla Terrell** also contributed to the sales and commission figures, with **Marcelene Boyer** emerging as the top performer in both order quantities and commission earnings.
 
-# Forecastng and Insights:
+### Forecastng and Insights:
 
 <img width="601" alt="image" src="https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/29133554-0e2e-470f-8281-f5a5bb1da95e">
+
 
 We have generated a year-wise revenue forecasting model for the upcoming three years. During our analysis, we observed the forecasted values for different areas, including the ForecastPoint value, as well as the Upper and Lower Bound Values for each quarter over the three-year forecasting period.
 
@@ -85,6 +86,15 @@ The ROI% (Return on Investment) showed the following trends:
 In 2021, the ROI% was **84.30%.**
 In 2022, the ROI% decreased to **62.47%.**
 In 2023, the ROI% further decreased to **59.58%**
+
+
+### Yearly Report:
+
+<img width="604" alt="image" src="https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/5547c6ef-b0de-4f32-82e9-512bb3b03827">
+
+We have generated a yearly report focusing on the percentage change in growth over quarters and months. Through the use of the drilldown option, we can observe the variations in the data.
+
+Specifically, we noticed that **Quarter1** exhibited the highest quarter-over-quarter (QOQ) growth rate at **133.31%**. In contrast, **Quarter 3** displayed a negative growth rate of **-53.79%**.
 
 
 
