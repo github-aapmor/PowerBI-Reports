@@ -102,6 +102,10 @@ Within the Trek brand, Road Bikes, Cyclocross Bicycles, and Children Bicycles co
 
 In the Road Bikes category of Trek, the top three revenue-generating products out of **263** products are **Trek Domane SLR**, **Trek Emonda S 4**, and **Trek Domane S 5**, with revenues of **$1.49 million**, **$1.17 million**, and **$0.89 million**, respectively.
 
+I have created a matrix table that organizes data between states and cities in rows, and years in columns. The matrix allows us to drill down into specific years using the "drill column" and "drill row" options available on the table.
+
+This setup enables us to observe revenue, profit, and discount amounts generated city-wise year. Additionally, we can drill down further to observe quarter and month-wise details within each city and year.
+
 
 
 
