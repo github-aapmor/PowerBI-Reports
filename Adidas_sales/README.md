@@ -71,9 +71,9 @@ In the total sales breakdown by retailers, the sales figures are as follows:
 
 **West Gear** leads with the highest total sales, securing the first place with **$243 million**.
 **Foot Locker** follows closely, claiming the second spot with total sales amounting to **$220 million.**
-**Sport Direct** claims the third position with total sales of $182 million.
-**Kohl's** records $102 million in sales.
-**Amazon** follows with $78 million in sales.
+**Sport Direct** claims the third position with total sales of **$182** million.
+**Kohl's** records **$102** million in sales.
+**Amazon** follows with **$78** million in sales.
 **Walmart** holds the last position among the six retailers, with total sales reaching **$75 million.**
 
 
