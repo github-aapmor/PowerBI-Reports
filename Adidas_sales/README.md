@@ -77,6 +77,16 @@ In the total sales breakdown by retailers, the sales figures are as follows:
 **Walmart** holds the last position among the six retailers, with total sales reaching **$75 million.**
 
 
+In the quarterly breakdown of total sales and profit:
+
+**Quarter 1**: Recorded **$189 **million in sales, generating a profit of **$67** million.
+
+**Quarter 2** : Demonstrated an increase with **$228** million in sales and a corresponding profit of **$84** million.
+
+**Quarter 3**: Registered a substantial growth with **$265** million in sales, yielding a profit of **$100** million. Additionally, there were sales of **$218** million in the  **Quarter 4**, resulting in a profit of **$81** million.
+
+These figures provide insights into the performance and financial results across different quarters, showcasing trends and fluctuations in both sales and profit.
+
 
 
 
