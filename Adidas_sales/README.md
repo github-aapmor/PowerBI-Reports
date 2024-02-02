@@ -67,6 +67,15 @@ Amazon and Walmart have market shares of **8.63%** and **8.29%,** respectively.
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/9df48a50-3a48-4f80-a55b-b8694f328b4b)
 
+In the total sales breakdown by retailers, the sales figures are as follows:
+
+**West Gear** leads with the highest total sales, securing the first place with **$243 million**.
+**Foot Locker** follows closely, claiming the second spot with total sales amounting to **$220 million.**
+**Sport Direct** claims the third position with total sales of $182 million.
+**Kohl's** records $102 million in sales.
+**Amazon** follows with $78 million in sales.
+**Walmart** holds the last position among the six retailers, with total sales reaching **$75 million.**
+
 
 
 
