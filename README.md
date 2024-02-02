@@ -19,3 +19,6 @@ https://github.com/github-aapmor/PowerBI-Reports/tree/main/Audit%20log%20dashboa
 
 ### Audit Analysis Report
 https://github.com/github-aapmor/PowerBI-Reports/tree/main/Audit%20Analysis%20Report
+
+### Bike Store Sales
+https://github.com/github-aapmor/PowerBI-Reports/tree/main/Bike%20Store%20Sales
