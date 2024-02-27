@@ -23,17 +23,17 @@ Using a Column chart, we illustrated the ticket counts based on their respective
 
 The average time for completing a ticket was 18 days, and I created a column to represent the average time taken for each ticket state. Specifically, tickets in the "Awaiting Evidence" state took an average of 193 days, "Awaiting Vendor" tickets took 135 days, "Awaiting Problem" tickets took 41 days, "Active" tickets took 19 days, "New" tickets took 16 days, and "Resolved" and "Closed" tickets took an average of 14 days.
 
-I employed a column line chart to visualize reassigned and reopened tickets based on their ticket states. The reassigned tickets were represented using a column chart, while the reopened tickets were depicted with a line chart. It was observed that the "Active" state had the highest number of tickets across all states, while "Awaiting Evidence" had the lowest count.
+column line chart to visualize reassigned and reopened tickets based on their ticket states. The reassigned tickets were represented using a column chart, while the reopened tickets were depicted with a line chart. It was observed that the "Active" state had the highest number of tickets across all states, while "Awaiting Evidence" had the lowest count.
 
 Line chart to illustrate the number of tickets year and month-wise. It was evident that March of the year 2016 had the highest count, totaling 57.96K tickets, while May of the year 2017 marked the lowest count with 0.03K tickets.
 
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/797c635a-33e8-4e03-bab1-57b95445a4af)
 
-I created a donut chart to visualize how tickets were reported. Phone type reports dominated, occupying 99.9%, while email type reports constituted a minor percentage at 0.1%.
+Created a donut chart to visualize how tickets were reported. Phone type reports dominated, occupying 99.9%, while email type reports constituted a minor percentage at 0.1%.
 
 Additionally, another donut chart was generated to represent notify generated for the tickets. In this chart, phone type notifications occupied 99.9%, with email type notifications accounting for the remaining 0.1%.
 
-I created bar charts to visualize the distribution of the top symptoms among the total number of tickets. The representation is as follows:
+Created bar charts to visualize the distribution of the top symptoms among the total number of tickets. The representation is as follows:
 
 Symptom 541, occupying 57.89%.
 
@@ -67,7 +67,7 @@ A treemap was generated to illustrate the count of tickets based on both country
 ![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/a73ca6b4-f308-4da2-94a7-17cace01ea88)
 
 
-I created three donut charts based on the total number of tickets, each representing different categories: urgency, impact, and priority.
+Created three donut charts based on the total number of tickets, each representing different categories: urgency, impact, and priority.
 
 Urgency Category:
 
@@ -87,7 +87,7 @@ High priority tickets represent 2.33%.
 Critical priority tickets make up 1.53%.
 
 
-I generated a comprehensive table providing detailed information about each ticket. The table includes the following fields:
+Generated a comprehensive table providing detailed information about each ticket. The table includes the following fields:
 
 Ticket Number: A unique identifier for each ticket.
 
