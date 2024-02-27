@@ -71,17 +71,17 @@ Created three donut charts based on the total number of tickets, each representi
 
 Urgency Category:
 
-Medium urgency tickets occupy the majority at 94.63%.
+Urgency Category tickets occupy the majority at medium level 94.63%.
 Low urgency tickets account for 2.62%.
 High urgency tickets represent 2.75%.
 Impact Category:
 
-Medium impact tickets dominate with 94.74%.
+Impact category tickets dominate with medium level 94.74%.
 Low impact tickets constitute 2.85%.
 High impact tickets make up 2.41%.
 Priority Category:
 
-Medium priority tickets cover the highest proportion at 93.34%.
+Priority category tickets cover the highest proportion at medium level 93.34%.
 Low priority tickets comprise 2.96%.
 High priority tickets represent 2.33%.
 Critical priority tickets make up 1.53%.
