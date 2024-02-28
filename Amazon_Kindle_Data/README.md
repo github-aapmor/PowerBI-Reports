@@ -30,6 +30,8 @@ Categorizing books based on sales, the top three genres are **Science & Math**, 
 
 In this visual presentation, we can observe author-wise book categories, **book titles**, the number of books sold for each particular **title**, **the price of the book**, **ratings**, **reviews**, and the product **web URL**, all presented in a tabular format.
 
+For more detailed insights, we have incorporated a Year and Author Slicer. By applying filters to the data, users can explore each book title, accompanied by its corresponding URL image, price, total number of books sold, review ratings, and product web URL.
+
 
 
 
