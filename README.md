@@ -22,3 +22,6 @@ https://github.com/github-aapmor/PowerBI-Reports/tree/main/Audit%20Analysis%20Re
 
 ### Bike Store Sales
 https://github.com/github-aapmor/PowerBI-Reports/tree/main/Bike%20Store%20Sales
+
+## Amazon Kindle Data
+https://github.com/github-aapmor/PowerBI-Reports/tree/main/Amazon_Kindle_Data
