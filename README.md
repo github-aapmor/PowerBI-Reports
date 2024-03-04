@@ -25,3 +25,6 @@ https://github.com/github-aapmor/PowerBI-Reports/tree/main/Bike%20Store%20Sales
 
 ## Amazon Kindle e-Book Data Analysis
 https://github.com/github-aapmor/PowerBI-Reports/tree/main/Amazon_Kindle_Data
+
+## Hospitality Analysis
+https://github.com/github-aapmor/PowerBI-Reports/tree/main/Hospitality_Analysis
