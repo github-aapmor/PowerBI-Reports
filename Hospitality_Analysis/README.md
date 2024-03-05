@@ -43,3 +43,8 @@ In the comparison between weekday and weekend:
 Weekdays show a higher number of bookings at **93.41K** (93,410), while weekends have **41.1K** (41,100) bookings.
 However, weekends exhibit a higher cancellation rate at **15.36%** compared to weekdays, which also stand at **13.98%**
 
+
+In terms of category-wise bookings:
+
+Luxury accommodations occupy **62.16%** of the total bookings, with the remaining bookings(**37.84%**) attributed to the Business category.
+
