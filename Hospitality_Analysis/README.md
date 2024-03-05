@@ -66,3 +66,8 @@ In a day-wise breakdown:
 
 • Sunday and Saturday exhibit higher bookings at 26K and 24K, respectively.
 • The remaining days show consistent booking numbers.
+
+In a week-wise breakdown:
+
+• Week 19 demonstrates higher bookings and cancellations, with 11K bookings and 2.8K cancellations.
+• Conversely, in Week 32, bookings are lower at 1.7K, with cancellations also reduced to 396.
