@@ -6,7 +6,8 @@ This data concerns Atliq Grands, which operates multiple five-star hotels across
 
 ### Dashboard
 
-![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/31fa3c8d-c7ef-4208-85d8-02b13821eefa)
+![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/21a1163e-cdd4-4848-a92c-2a014cc42f4c)
+
 
 • The revenue generated amounted to **1.709** billion, with a RevPAR of **7.35**K and a DSRN (Daily Sellable Rooms night) of **2528**. The occupancy percentage stood at **57.87%**, while the ADR (Average Daily Rate) was **12.7K**. Additionally, the realization rate was **80.61%**
 
@@ -32,7 +33,8 @@ occupancy
 ### **Booking and Cancellation Report:**
 
 
-![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/2ef67e55-2e25-478a-8250-4f3c1bb4a988)
+![image](https://github.com/github-aapmor/PowerBI-Reports/assets/149667836/a83445c9-79a8-4576-bb86-e5ad3231db35)
+
 
 
 In the card visual:
